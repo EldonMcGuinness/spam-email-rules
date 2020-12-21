@@ -1,0 +1,36 @@
+{ 
+	"rules": {
+		"text-case-insensitive": [
+			"free trial",
+        		"to unsubscribe",
+		        "nude",
+    		    	"sexy girls",
+	        	"panties",
+	    	    	"naked",
+        		"cock",
+	        	"dick",
+	    	    	"pussy",
+        		"pussies",
+	        	"vagina",
+	    	    	"titties",
+        		"titty",
+	        	"lovers",
+	    	    	"sex",
+        		"lovers",
+	        	"porn",
+	    	    	"p0rn",
+        		"fuck",
+	        	"fucking",
+	    	    	"erotic",
+        		"get more followers",
+	        	"spam",
+			"make thousands of",
+			"passive income",
+			"passives einkommen"
+		],
+		"text-case-sensitive": [
+		],
+		"regex":[
+		]
+	}
+}
