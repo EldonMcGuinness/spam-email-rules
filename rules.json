@@ -1,6 +1,10 @@
 { 
 	"rules": {
 		"text-case-insensitive": [
+			"our price"
+			"Ð",
+			"dating",
+			"bitcoin",
 			"free trial",
         		"to unsubscribe",
 		        "nude",
@@ -25,6 +29,8 @@
         		"get more followers",
 	        	"spam",
 			"make thousands of",
+			"generate payments",
+			"generate daily payments",
 			"passive income",
 			"passives einkommen"
 		],
