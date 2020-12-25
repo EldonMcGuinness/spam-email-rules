@@ -1,7 +1,7 @@
 { 
 	"rules": {
 		"text-case-insensitive": [
-			"our price"
+			"our price",
 			"Ð",
 			"dating",
 			"bitcoin",
