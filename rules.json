@@ -1,6 +1,11 @@
 { 
 	"rules": {
 		"text-case-insensitive": [
+			">>>",
+			"<<<",
+			"domain notice expiry",
+			"i just joined",
+			"I made over $",
 			"our price",
 			"Ð",
 			"dating",
